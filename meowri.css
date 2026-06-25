@@ -2,7 +2,7 @@
 header{
 	 background-color:#008183;
 	height: 58px;
-	  font-size: 30px
+	  font-size: 30px;
 
 	
 	
@@ -11,8 +11,11 @@ header{
 	
       }
 
+
+.table{  border-radius: 40px;                                   }
+
 .image1{
-	 
+	 margin-left: 10px;
 	
 	
 	
