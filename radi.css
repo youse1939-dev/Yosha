@@ -14,3 +14,35 @@ header{
 .table4{  border-radius: 40px;                         }
 .table2{ border-radius: 33px; background-color: #B7B7A4                             }
 .table3{   border-radius: 5px 5px 33px 33px                                            }
+.table{  border-radius: 40px;                                   }
+
+.image1{ margin: 30px 32px 20px 30px;
+	border-radius: 40px;
+	
+
+	
+}
+
+
+.image2{  margin: 20px 40px 25px 10px; border-radius:40px; float: right;}
+.image3{  margin: 40px 40px 50px;   border-radius: 30px; float: left;}
+.imag4{  margin: 30px; float: right; border-radius: 40px;                         }
+
+
+
+.image1:hover {
+    border: 6px solid #264653 !important;
+}
+
+.image2:hover {
+    border: 6px solid #264653 !important;
+}
+
+
+.image3:hover {
+    border: 6px solid #264653 !important;
+}
+
+.imag4:hover {
+    border: 6px solid #264653 !important;
+}
